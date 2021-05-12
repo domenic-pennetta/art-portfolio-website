@@ -87,10 +87,6 @@ nav h1 {
         border: solid 2px #000;
         border-radius: 2px;
     }
-    .nav-button:hover {
-        cursor: pointer;
-        opacity: 45%;
-    }
 
     .nav-button.active  {
         position: fixed;
@@ -145,7 +141,6 @@ nav h1 {
 
         nav ul li a:hover {
             opacity: 65%;
-            animation: transitionIn .3s;
         }
 
         .menu-space {
