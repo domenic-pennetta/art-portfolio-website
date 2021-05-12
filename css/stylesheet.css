@@ -128,7 +128,6 @@ nav h1 {
             font-family: openS-b;
             padding-top: 58px;
             text-align: center;
-            animation: transitionIn .3s;
             z-index: 3;
         }
 
