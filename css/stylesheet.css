@@ -190,7 +190,7 @@ h2 {
     @media only screen and (max-width: 850px) {
         h2 {
             margin-top: 40px;
-            font-size: 12px;
+            font-size: 14px;
             font-family: openS-l;
             letter-spacing: 3px;
             text-align: left;
@@ -516,16 +516,17 @@ footer {
             margin-top: 8px;
             font-size: 12px;
             font-family: openS-l;
-            letter-spacing: 1px;
+            letter-spacing: 0px;
         }
 
         h2 {
-            letter-spacing: 1px;
+            letter-spacing: 0px;
+            line-height: 22px;
         }
 
         h3 {
             margin: 12px 0;
-            font-size: 16px;
+            font-size: 17px;
             font-family: openS-r;
         }
 
@@ -536,14 +537,14 @@ footer {
         p {
             text-align: left;
             margin-bottom: 10px;
-            font-size: 12px;
+            font-size: 13px;
             font-family: openS-r;
             line-height: 25px;
         }
 
         .type {
             margin: -3px 0;
-            font-size: 11px;
+            font-size: 12px;
             font-family: openS-r;
             color: rgb(173, 173, 173);
         }
