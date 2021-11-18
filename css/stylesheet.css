@@ -214,6 +214,16 @@ p {
     line-height: 26px;
 }
 
+.p2 {
+    text-align: center;
+    color: rgb(134, 134, 134);
+    margin-top: -65;
+    margin-bottom: 50px;
+    font-size: 17px;
+    font-family: openS-r;
+    line-height: 26px;
+}
+
 .type {
     margin: 0;
     font-size: 14px;
@@ -538,6 +548,16 @@ footer {
             text-align: left;
             margin-bottom: 10px;
             font-size: 13px;
+            font-family: openS-r;
+            line-height: 25px;
+        }
+        
+        .p2 {
+            text-align: center;
+            color: rgb(134, 134, 134);
+            margin-top: -50px;
+            margin-bottom: 0px;
+            font-size: 12px;
             font-family: openS-r;
             line-height: 25px;
         }
