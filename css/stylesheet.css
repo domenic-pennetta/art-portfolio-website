@@ -459,6 +459,30 @@ main {
     display: none;
 }
 
+/*NOTE: The following code is for the 2023 Sylvania pollinator project hosted on my website*/
+.project-pollinator { 
+    /*This situates the pollinator image in line with the description*/
+    text-align: center;
+}
+
+    .project-pollinator img {
+        /*This informs size of pollinator image*/
+        margin: 0%;
+        padding: 20px 0px 0px 0px;
+        width: 750px;
+        height: 500px;
+    }
+
+    @media only screen and (max-width: 900px) { 
+        .project-pollinator img {
+            /*This informs size of pollinator image*/
+            margin: 0%;
+            padding: 16px 0px 0px 0px;
+            width: 100%;
+            height: auto;
+        }
+    }
+
 @media only screen and (max-width: 900px) { 
 /* Makes image appear for mobile */
 
