@@ -477,7 +477,7 @@ main {
         .pollinator {
             /*This informs size of pollinator image on mobile*/
             margin: 0%;
-            padding: 16px 0px 0px 0px;
+            padding: 12px 0px 0px 0px;
             width: 400px;
             height: 266px;
         }
