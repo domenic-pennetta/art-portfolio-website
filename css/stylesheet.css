@@ -478,7 +478,7 @@ main {
             /*This informs size of pollinator image on mobile*/
             margin: 0%;
             padding: 16px 0px 0px 0px;
-            width: 375px;
+            width: 320px;
             height: 250px;
         }
     }
