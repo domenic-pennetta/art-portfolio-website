@@ -473,9 +473,9 @@ main {
         height: 500px;
     }
 
-    @media only screen and (max-width: 900px) { 
+    @media only screen and (min-width: 900px) { 
         .project-pollinator img {
-            /*This informs size of pollinator image*/
+            /*This informs size of pollinator image on mobile*/
             margin: 0%;
             padding: 16px 0px 0px 0px;
             width: 450px;
