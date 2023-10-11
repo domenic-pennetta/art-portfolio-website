@@ -416,7 +416,7 @@ main {
     }
 
     @media only screen and (max-width: 900px) { 
-    /* Lists catergories vertically for mobile */
+    /* Lists categories vertically for mobile */
 
         #category {
             display: none;
@@ -479,7 +479,7 @@ main {
             margin: 0%;
             padding: 16px 0px 0px 0px;
             width: 450px;
-            height: 400px;
+            height: 800px;
         }
     }
 
