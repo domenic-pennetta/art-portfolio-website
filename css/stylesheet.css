@@ -581,6 +581,7 @@ footer {
         h2 {
             letter-spacing: 0px;
             line-height: 22px;
+            text-align: left;
         }
 
         h3 {
@@ -701,3 +702,4 @@ footer {
         }
 
     }
+
